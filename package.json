@@ -1,9 +1,0 @@
-{
-  "name": "d3-stroke-prediction",
-  "version": "1.0.0",
-  "description": "D3 Stroke Prediction Dataset",
-  "main": "app.js",
-  "repository": "d3-stroke.vercel.com",
-  "author": "Shamil Qurbonov",
-  "license": "MIT"
-}
